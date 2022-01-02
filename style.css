@@ -1,0 +1,39 @@
+body{
+    font-family: 'Shizuru', cursive;
+    background: rgb(50, 190, 205);
+}
+
+.header_div{
+    background: white;
+    color:(50, 190, 205) ;
+}
+.header_div p{
+    font-family: 'Shizuru', cursive;
+    color:yellowgreen;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+font-family:'Shizuru', cursive ;
+margin-top:30px;
+width: 120px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: grey;
+    bottom: 0;
+    width:100%;
+    font-size:18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align:center;
+    text-shadow: yellowgreen;
+}
+.img{
+    border: black 
+}
